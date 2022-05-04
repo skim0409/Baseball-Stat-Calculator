@@ -1,0 +1,22 @@
+{"List Of Pitchers": [
+    {
+        "wins": 15,
+        "hits": 130,
+        "bb": 44,
+        "name": "Max Scherzer",
+        "innings": 202,
+        "losses": 9,
+        "so": 150,
+        "er": 9
+    },
+    {
+        "wins": 13,
+        "hits": 133,
+        "bb": 34,
+        "name": "Justin Verlander",
+        "innings": 212.2,
+        "losses": 3,
+        "so": 155,
+        "er": 55
+    }
+]}

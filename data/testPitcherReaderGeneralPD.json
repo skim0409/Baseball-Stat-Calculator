@@ -1,0 +1,24 @@
+{
+  "List Of Pitchers" : [
+    {
+      "wins": 15,
+      "hits": 130,
+      "bb": 44,
+      "name": "Max Scherzer",
+      "innings": 202,
+      "losses": 9,
+      "so": 150,
+      "er": 9
+    },
+    {
+      "wins": 10,
+      "hits": 103,
+      "bb": 21,
+      "name": "Clayton Kershaw",
+      "innings": 121.2,
+      "losses": 8,
+      "so": 144,
+      "er": 48
+    }
+  ]
+}

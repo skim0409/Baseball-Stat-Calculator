@@ -1,0 +1,26 @@
+{
+  "List Of Batters" : [
+    {
+      "at bat": 555,
+      "hits": 122,
+      "bb": 44,
+      "triples": 2,
+      "doubles": 33,
+      "name": "Sean Kim",
+      "rbi": 77,
+      "hr": 22,
+      "runs": 123
+    },
+    {
+      "at bat": 444,
+      "hits": 88,
+      "bb": 55,
+      "triples": 3,
+      "doubles": 12,
+      "name": "Mike Trout",
+      "rbi": 99,
+      "hr": 33,
+      "runs": 55
+    }
+  ]
+}
